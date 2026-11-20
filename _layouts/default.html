@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: 'en' }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title }} | {{ site.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1><a href="{{ site.data.nav[page.lang].home_url | default: '/' }}">{{ site.title }}</a></h1>
+        <p>{{ site.description }}</p>
+
+        <!-- Language Switcher -->
+        <p>
+          <strong>
+            <a href="/">EN</a> | <a href="/hu/">HU</a> | <a href="/de/">DE</a>
+          </strong>
+        </p>
+
+        <!-- Page Navigation -->
+        {% assign current_nav = site.data.nav[page.lang] %}
+        {% if current_nav %}
+        <nav>
+          <p>
+            <a href="{{ current_nav.home_url }}">{{ current_nav.home }}</a><br>
+            <a href="{{ current_nav.cv_url }}">{{ current_nav.cv }}</a>
+          </p>
+        </nav>
+        {% endif %}
+      </header>
+
+      <section>
+        {{ content }}
+      </section>
+
+      <footer>
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com">orderedlist</a></small></p>
+      </footer>
+    </div>
+    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
+  </body>
+</html>
