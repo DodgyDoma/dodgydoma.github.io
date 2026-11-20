@@ -6,7 +6,7 @@ title: Main Page
 
 # Dominik Gyönki
 
-Welcome! This is my GitHub page, although I'm not really using it actively yet, I'm still trying GitHub Pages out.
+Welcome! This is my GitHub page, although I'm not really using it actively yet, I'm still trying GitHub Pages out.  
 Anyway, here's a little bit of content for those who are here.
 
 ## Education
