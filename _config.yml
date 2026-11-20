@@ -1,3 +1,20 @@
 title: DodgyDoma's GitHub Page
-description: My own little website is here, please forgive my username
+description: This is my small GitHub-hosted site
 theme: jekyll-theme-minimal
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+      lang: "en"
+  - scope:
+      path: "hu"
+    values:
+      layout: "default"
+      lang: "hu"
+  - scope:
+      path: "de"
+    values:
+      layout: "default"
+      lang: "de"
