@@ -1,6 +1,4 @@
 ---
-layout: default
-lang: de
 title: Hauptseite
 ---
 

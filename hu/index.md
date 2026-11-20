@@ -1,6 +1,4 @@
 ---
-layout: default
-lang: hu
 title: Főoldal
 ---
 
