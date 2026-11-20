@@ -11,7 +11,7 @@ Anyway, here's a little bit of content for those who are here.
 
 ## Education
 
-2020-2025: Neumann János High School, Eger
-September 2025-: Budapest University of Technology and Economics, Faculty of Electrical Engineering and Informatics, Electrical Engineering BSc (German program)
-October 2026-: Erasmus+ Semester at the Karlsruhe Institute of Technology (as part of German EE program)
+2020-2025: Neumann János High School, Eger  
+September 2025-: Budapest University of Technology and Economics, Faculty of Electrical Engineering and Informatics, Electrical Engineering BSc (German program)  
+October 2026-: Erasmus+ Semester at the Karlsruhe Institute of Technology (as part of German EE program)  
 
