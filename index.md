@@ -1,12 +1,17 @@
-Dominik Gyönki
+---
+layout: default
+lang: en
+title: Main Page
+---
 
-Welcome! This is my GitHub page, although it's primarily for testing purposes at this point.
+# Dominik Gyönki
 
-I'm just trying out GitHub Pages because I'm bored and I realized that I have a GitHub account. Anyway, here's a little bit of content for whoever is interested.
+Welcome! This is my GitHub page, although I'm not really using it actively yet, I'm still trying GitHub Pages out.
+Anyway, here's a little bit of content for those who are here.
 
-Education
+## Education
 
 2020-2025: Neumann János High School, Eger
-Since September 2025: Budapest University of Technology and Economics, Faculty of Electrical Engineering and Informatics, Electrical Engineering BSc (German program, hopefully going to work out)
+September 2025-: Budapest University of Technology and Economics, Faculty of Electrical Engineering and Informatics, Electrical Engineering BSc (German program)
+October 2026-: Erasmus+ Semester at the Karlsruhe Institute of Technology (as part of German EE program)
 
-I might expand this website in the future, but don't have high expectations.
